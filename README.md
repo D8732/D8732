@@ -1,7 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Dareis Newton! 
+
+<h2>👨‍💻 CyberSecurity/Azure Cloud Projects:</h2>
+
+
+
+Certifications
+Az-900 Fundamentals
+Comptia Network Plus
+
+
+
+
+[linkedin]: https://linkedin.com/in/DareisNewton
 
 <!--
-**D8732/D8732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dareis Newton is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
