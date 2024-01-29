@@ -1,6 +1,7 @@
 <h1>Hi, I'm Dareis Newton! 
 
 <h2>👨‍💻 CyberSecurity/Azure Cloud Projects:</h2>
+Configure Siem Security Operations using Microsoft Sentinel https://learn.microsoft.com/api/credentials/share/en-us/DareisNewton-9253/47F83B0C5B4AFB18?sharingId=A6292BECA0845FA8
 
 
 
