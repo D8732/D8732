@@ -4,6 +4,10 @@
 Configure Siem Security Operations using Microsoft Sentinel https://learn.microsoft.com/api/credentials/share/en-us/DareisNewton-9253/47F83B0C5B4AFB18?sharingId=A6292BECA0845FA8
 
 
+Blue Team Challenge Network Analysis Ransomeware
+https://blueteamlabs.online/achievement/share/challenge/67623/3#
+
+
 
 Certifications
 Az-900 Fundamentals
