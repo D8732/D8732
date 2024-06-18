@@ -3,7 +3,7 @@
 
 <h1> CyberSecurity Projects 
 
-- <b>Azure Cloud Soc Project</b>
+- <b>Microsoft Entra Cloud Soc Project</b>
   - Created Live Soc/Honeynet in Azure
   - https://github.com/D8732/AZURE-SOC-ENVIRONMENT
 - <b>Vulnerability Management on Kali-Linux VM With Nessus Scanner</b>
