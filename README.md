@@ -9,5 +9,10 @@
 - <b>Vulnerability Management on Kali-Linux VM With Nessus Scanner</b>
 
   https://github.com/D8732/KaliLinux-Metasploit
+
+
+  - <b>Microsoft-Entra-Data-Protection-Access-Control</b>
+
+  https://github.com/D8732/Microsoft-Entra-Data-Protection-Access-Control
   
 
